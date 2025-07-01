@@ -17,6 +17,7 @@
 - [Troubleshooting](troubleshooting.md)
 - [Development](development.md)
   - [Contributing](contributing.md)
+  - [Code Style Guide](development/code_style.md)
   - [Testing](development/testing.md)
   - [Hot Reloading ("Live" Development)](development/hot_reload.md)
 - [Community (and Guidelines)](community.md)
